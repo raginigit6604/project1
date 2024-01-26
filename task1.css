@@ -1,0 +1,17 @@
+
+h1{
+    text-align:center;
+    background-color: bisque;
+}
+label{
+    height: 500px;
+    margin-left: 150px;
+}
+#age{
+    margin-left: 10px;
+
+}
+button{
+    background-color: green;
+    margin-left: 150px;
+}
